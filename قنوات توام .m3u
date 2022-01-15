@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:24,Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:60,Alfajer Tv HD 2 (720p)
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:24,omg
+http://media6.smc-host.com:1935/omgchannel.net/omgtv/hossam0599618001.m3u8
+#EXTINF:24,Orient Radio + Palestine Mubasher
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:24,wattan
+http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
+#EXTINF:33,Marah FM (720p)
+http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
+#EXTINF:60,one
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:28,Sky News Arabia (720p)
+https://stream.skynewsarabia.com/hls/sna.m3u8
