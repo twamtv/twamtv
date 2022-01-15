@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:0,ÇĞÇÚÉ ÇáŞÑÇä ÇáßÑíã
+http://www.quran-radio.org:8002/;stream.mp3
+#EXTINF:0,ÑÇÏíæ ãÚÇß
+http://radioma3ak.com:8000/;
+#EXTINF:0,ÇáÑŞíÉ ÇáÔÑÚíÉ
+http://live.mp3quran.net:9936/;
+#EXTINF:0,ÑÇÏíæ ãÍãÏ ÕÏíŞ ÇáãäÔÇæí
+http://server2.quraan.us:9918/;*.mp3
+#EXTINF:0,İÇÑÓ ÚÈÇÏ
+http://server2.quraan.us:9904/;*.mp3
+#EXTINF:0,ÑÇÏíæ ÚİÇÓí
+http://server2.quraan.us:9922/;*.mp3
+#EXTINF:0,ÑÇÏíæ ãíÌÇ
+http://nebula.shoutca.st:8211/;stream.mp3
+#EXTINF:0,ÑÇÏíæ åíÊÓ
+http://178.32.62.154:8957/;stream.mp3
+#EXTINF:0,ÑÇÏíæ ØÑÈ
+http://streamer.mada.ps:8012/tarab
+#EXTINF:0,ÑÇÏíæ äÛã
+http://streamer.mada.ps:8010/ANGHAM
+#EXTINF:0,ÑÇÏíæ ÑÃíÇ
+http://live.raya.ps:8064/;stream.mp3
+#EXTINF:0, ÑÇÏíæ äÌæã Çİ Çã
+https://reach-audio.esteam.rocks/radio/8000/live.mp3
+#EXTINF:0,ÑÇÏíæ ÔÚÈì Çİ Çã 
+http://178.32.62.154:9010/;
+#EXTINF:0,ÑÇÏíæ ãÍØÉ ãÕÑ
+https://s3.radio.co/s9cb11828c/low
+#EXTINF:0, ÑÇÏíæ ÇÓßÇí äíæÒ
+https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+#EXTINF:0,ÑÇÏíæ ãÕÑ
+https://streaming.radio.co/scc13a6b96/listen
+#EXTINF:0,ÑÇÏíæ 9090
+https://9090streaming.mobtada.com/9090FMEGYPT
+#EXTINF:0,ÑÇÏíæ ÚÑÈ ãíßÓ
+https://node-23.zeno.fm/na3vpvn10qruv.acc
+#EXTINF:0,ÑÇÏíæ ãÚÇß Úáì Øæá
+http://www.radioma3ak.com:8000/;stream.mp3
+#EXTINF:0,ÑÇÏíæ ÇáÔÈÇÈ
+https://n13.radiojar.com/a3qsqz9h2ewtv
+#EXTINF:0,ÑÇÏíæ ÈäåÇ
+http://whsh4u-panel.com:14113/stream
+#EXTINF:0,ÑÇÏíæ ÚãÑæ ÏíÇÈ
+http://andromeda.shoutca.st:8192/;
+#EXTINF:0,ÑÇÏíæ åæÇåÇ ÈíØÑí
+https://s44.myradiostream.com/9204/listen.mp3
+#EXTINF:0,ÑÇÏíæ äæÊÇ ÚÑÈíÉ
+http://95.154.196.33:25911/live
+#EXTINF:0,ÑÇÏíæ ÔÑíä
+https://arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
+#EXTINF:0,ÚãÑæ
+http://stream.zeno.fm/rf64mx02qa0uv
+#EXTINF:0,Çã ßáËæã
+http://node-11.zeno.fm/zsgrfxg71s8uv
+#EXTINF:0,ãÕÑ ÌÏíÏÉ
+http://streaming.radio.co/scc13a6b96/listen
+#EXTINF:0,ãÕØİì
+http://stream.zeno.fm/xtsy4ruecm0uv
+#EXTINF:0,ÑÇÏíæ ÇäÑÌí
+https://nrjstreaming.ahmed-melege.com/nrjegypt
+#EXTINF:0,Ufm
+http://69.61.26.75:8000/;
+#EXTINF:0,AR: ÔÚÈí Çİ Çã
+http://178.32.62.154:9010/;
+#EXTINF:0,AR: ÑÇÏíæ ÇáÇåÑÇã
+http://196.219.246.24:8000/stream
+#EXTINF:0,ÑÇÏíæ ãÓÑÍ ãÕÑ
+http://vps-88e9a730.vps.ovh.net:8000/masra7.ogg
+#EXTINF:0,ÇáÈÑäÇãÌ ÇáÚÇã
+http://ph.phantomsw.com:8000/bernamegy.ogg
+#EXTINF:0,ÇáÔÑŞ ÇáÇæÓØ
+http://ph.phantomsw.com:8000/sharky.ogg
+#EXTINF:0,ÑÇÏíæ ãÓÈíÑæ ÒãÇä
+http://ph.phantomsw.com:8000/maspy.ogg
+#EXTINF:0,ÑÇÏíæ ÕæÊ ÇáÚÑÈ
+http://ph.phantomsw.com:8000/sooty.ogg
+#EXTINF:0,ÑÇÏíæ ŞÏíã
+http://usa6.fastcast4u.com:5109/live
+#EXTINF:0, ÑÇÏíæ ÇáÈÑäÇãÌ ÇáÚÇã
+http://ph.phantomsw.com:8000/bernamegy.ogg
+#EXTINF:0, ÅĞÇÚÉ ÇáãÓáÓáÇÊ 1
+http://node-07.zeno.fm/zp69m5p0dm8uv
+#EXTINF:0, ÅĞÇÚÉ ÇáãÓáÓáÇÊ 2
+http://node-13.zeno.fm/zp0k6b80c5zuv
