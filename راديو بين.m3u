@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:0,AR: beIN Premium 1
+http://radio.gogo-stalker.com:8880/raddz8/mpegts
+#EXTINF:0,AR: beIN Premium 2
+http://radio.gogo-stalker.com:8880/raddz9/mpegts
+#EXTINF:0,AR: beIN Premium 3
+http://radio.gogo-stalker.com:8880/raddz10/mpegts
+#EXTINF:0,AR: beIN 1 Audio
+http://radio.gogo-stalker.com:8880/raddz/mpegts
+#EXTINF:0,AR: beIN 2 Audio
+http://radio.gogo-stalker.com:8880/raddz2/mpegts
+#EXTINF:0,AR: beIN 3 Audio
+http://radio.gogo-stalker.com:8880/raddz3/mpegts
+#EXTINF:0,AR: beIN 4 Audio
+http://radio.gogo-stalker.com:8880/raddz4/mpegts
+#EXTINF:0,AR: beIN 5 Audio
+http://radio.gogo-stalker.com:8880/raddz5/mpegts
+#EXTINF:0,AR: beIN 6 Audio
+http://radio.gogo-stalker.com:8880/raddz6/mpegts
+#EXTINF:0,AR: beIN 7 Audio
+http://radio.gogo-stalker.com:8880/raddz7/mpegts
+#EXTINF:0,AR: beIN Max 1 Audio
+http://radio.gogo-stalker.com:8880/beinmax1/mpegts
+#EXTINF:0,AR: beIN Max 2 Audio
+http://radio.gogo-stalker.com:8880/beinmax2/mpegts
+#EXTINF:0,AR: beIN Max 3 Audio
+http://radio.gogo-stalker.com:8880/beinmax3/mpegts
+#EXTINF:0,AR: beIN Max 4 Audio
+http://radio.gogo-stalker.com:8880/beinmax4/mpegts
+#EXTINF:0,AR: beIN Max 5 Audio
+http://radio.gogo-stalker.com:8880/beinmax5/mpegts
+#EXTINF:0,AR: beIN Max 6 Audio
+http://radio.gogo-stalker.com:8880/beinmax6/mpegts
