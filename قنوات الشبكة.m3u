@@ -1,0 +1,16 @@
+﻿#EXTM3U
+#EXTINF:0,TWAM TV 1
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.1.2/user=admin_password=1959_channel=1_stream=0.sdp
+#EXTINF:0,TWAM TV 2
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.1.2/user=admin_password=1959_channel=2_stream=0.sdp
+#EXTINF:0,TWAM TV 3
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.1.2/user=admin_password=1959_channel=3_stream=0.sdp
+#EXTINF:0,TWAM TV 4
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.1.2/user=admin_password=1959_channel=4_stream=0.sdp
+#EXTINF:0,TWAM TV 5
+#EXTVLCOPT:network-caching=1000
+http://192.168.1.4/stream.m3u
